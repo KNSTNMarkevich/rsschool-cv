@@ -1,1 +1,1 @@
-Init repository
+# https://KNSTNMarkevich.github.io/rsschool-cv/cv #
